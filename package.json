@@ -1,5 +1,5 @@
 {
-  "name": "@dialpad/dialtone",
+  "name": "@josedialpad/dialtone",
   "version": "7.11.2",
   "description": "Dialpad's design system",
   "keywords": [
@@ -42,7 +42,7 @@
   "bin": {
     "dialtone-health-check": "./lib/dist/js/dialtone_health_check.js"
   },
-  "repository": "git@github.com:dialpad/dialtone.git",
+  "repository": "git@github.com:josedialpad/dialtone.git",
   "scripts": {
     "build": "gulp",
     "lint": "run-s lint:library lint:docs lint:code",
