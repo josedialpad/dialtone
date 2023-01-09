@@ -4,6 +4,14 @@
 ### Bug Fixes
 
 * fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))
+* update readme ([a38362b](https://github.com/josedialpad/dialtone/commit/a38362bcc0b920d729dc4e26e2df68bb899da860))
+
+## [7.11.3](https://github.com/josedialpad/dialtone/compare/v7.11.2...v7.11.3) (2023-01-09)
+
+
+### Bug Fixes
+
+* fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))
 
 ## [7.11.2](https://github.com/dialpad/dialtone/compare/v7.11.1...v7.11.2) (2023-01-05)
 
