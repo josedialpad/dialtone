@@ -3,6 +3,36 @@
 
 ### Bug Fixes
 
+* changelog parser ([3794a20](https://github.com/josedialpad/dialtone/commit/3794a20e0356ba50304c06f2d00713a9a17ce15c))
+* fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))
+* update readme ([8614dbf](https://github.com/josedialpad/dialtone/commit/8614dbfb837b655b17a244bd82a7c4ef2638bb09))
+* update readme ([a38362b](https://github.com/josedialpad/dialtone/commit/a38362bcc0b920d729dc4e26e2df68bb899da860))
+
+## [7.11.3](https://github.com/josedialpad/dialtone/compare/v7.11.2...v7.11.3) (2023-01-09)
+
+
+### Bug Fixes
+
+* changelog parser ([3794a20](https://github.com/josedialpad/dialtone/commit/3794a20e0356ba50304c06f2d00713a9a17ce15c))
+* fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))
+* update readme ([8614dbf](https://github.com/josedialpad/dialtone/commit/8614dbfb837b655b17a244bd82a7c4ef2638bb09))
+* update readme ([a38362b](https://github.com/josedialpad/dialtone/commit/a38362bcc0b920d729dc4e26e2df68bb899da860))
+
+## [7.11.3](https://github.com/josedialpad/dialtone/compare/v7.11.2...v7.11.3) (2023-01-09)
+
+
+### Bug Fixes
+
+* changelog parser ([3794a20](https://github.com/josedialpad/dialtone/commit/3794a20e0356ba50304c06f2d00713a9a17ce15c))
+* fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))
+* update readme ([8614dbf](https://github.com/josedialpad/dialtone/commit/8614dbfb837b655b17a244bd82a7c4ef2638bb09))
+* update readme ([a38362b](https://github.com/josedialpad/dialtone/commit/a38362bcc0b920d729dc4e26e2df68bb899da860))
+
+## [7.11.3](https://github.com/josedialpad/dialtone/compare/v7.11.2...v7.11.3) (2023-01-09)
+
+
+### Bug Fixes
+
 * fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))
 * update readme ([8614dbf](https://github.com/josedialpad/dialtone/commit/8614dbfb837b655b17a244bd82a7c4ef2638bb09))
 * update readme ([a38362b](https://github.com/josedialpad/dialtone/commit/a38362bcc0b920d729dc4e26e2df68bb899da860))
