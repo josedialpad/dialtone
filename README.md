@@ -2,7 +2,7 @@
 
 This is the home for Dialtone, Dialpad's design system. It includes the resources needed to create consistent, predictable interfaces that conform to Dialpad’s design principles, language, styles, and best practices.
 
-## Install Dialtone via NPM
+## Install Dialtone with NPM
 
 To add Dialtone into your project, you can install it via NPM:
 
