@@ -1,3 +1,10 @@
+# [7.12.0](https://github.com/josedialpad/dialtone/compare/v7.11.3...v7.12.0) (2023-01-10)
+
+
+### Features
+
+* configure git plugin to include CHANGELOG.json ([05fd047](https://github.com/josedialpad/dialtone/commit/05fd0470023202912b3a4d23ddc8fad3ba5d9afd))
+
 ## [7.11.3](https://github.com/josedialpad/dialtone/compare/v7.11.2...v7.11.3) (2023-01-10)
 
 
