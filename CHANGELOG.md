@@ -1,3 +1,10 @@
+# [7.14.0](https://github.com/josedialpad/dialtone/compare/v7.13.0...v7.14.0) (2023-01-10)
+
+
+### Features
+
+* update readme ([a200c35](https://github.com/josedialpad/dialtone/commit/a200c35b1fb194870788ad9ba034f9bc8be1d418))
+
 # [7.13.0](https://github.com/josedialpad/dialtone/compare/v7.12.0...v7.13.0) (2023-01-10)
 
 
