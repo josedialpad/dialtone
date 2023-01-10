@@ -1,14 +1,54 @@
-## [7.11.3](https://github.com/josedialpad/dialtone/compare/v7.11.2...v7.11.3) (2023-01-09)
-
-
-### Bug Fixes
-
-* fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))
-* update readme ([a38362b](https://github.com/josedialpad/dialtone/commit/a38362bcc0b920d729dc4e26e2df68bb899da860))
-
-## [7.11.3](https://github.com/josedialpad/dialtone/compare/v7.11.2...v7.11.3) (2023-01-09)
-
-
-### Bug Fixes
-
-* fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))
+{
+  "versions": [
+    {
+      "version": "7.11.3",
+      "title": "[7.11.3](https://github.com/josedialpad/dialtone/compare/v7.11.2...v7.11.3) (2023-01-09)",
+      "date": "2023-01-09",
+      "body": "### Bug Fixes\n\n* changelog parser ([3794a20](https://github.com/josedialpad/dialtone/commit/3794a20e0356ba50304c06f2d00713a9a17ce15c))\n* fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))\n* update readme ([8614dbf](https://github.com/josedialpad/dialtone/commit/8614dbfb837b655b17a244bd82a7c4ef2638bb09))\n* update readme ([a38362b](https://github.com/josedialpad/dialtone/commit/a38362bcc0b920d729dc4e26e2df68bb899da860))",
+      "parsed": {
+        "_": [
+          "changelog parser (3794a20)",
+          "fix readme (e621fc7)",
+          "update readme (8614dbf)",
+          "update readme (a38362b)"
+        ],
+        "Bug Fixes": [
+          "changelog parser (3794a20)",
+          "fix readme (e621fc7)",
+          "update readme (8614dbf)",
+          "update readme (a38362b)"
+        ]
+      }
+    },
+    {
+      "version": "7.11.3",
+      "title": "[7.11.3](https://github.com/josedialpad/dialtone/compare/v7.11.2...v7.11.3) (2023-01-09)",
+      "date": "2023-01-09",
+      "body": "### Bug Fixes\n\n* fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))\n* update readme ([a38362b](https://github.com/josedialpad/dialtone/commit/a38362bcc0b920d729dc4e26e2df68bb899da860))",
+      "parsed": {
+        "_": [
+          "fix readme (e621fc7)",
+          "update readme (a38362b)"
+        ],
+        "Bug Fixes": [
+          "fix readme (e621fc7)",
+          "update readme (a38362b)"
+        ]
+      }
+    },
+    {
+      "version": "7.11.3",
+      "title": "[7.11.3](https://github.com/josedialpad/dialtone/compare/v7.11.2...v7.11.3) (2023-01-09)",
+      "date": "2023-01-09",
+      "body": "### Bug Fixes\n\n* fix readme ([e621fc7](https://github.com/josedialpad/dialtone/commit/e621fc715e836c2d98ba4088ea3aa557827e3dc5))",
+      "parsed": {
+        "_": [
+          "fix readme (e621fc7)"
+        ],
+        "Bug Fixes": [
+          "fix readme (e621fc7)"
+        ]
+      }
+    }
+  ]
+}
