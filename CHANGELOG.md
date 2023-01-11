@@ -1,3 +1,10 @@
+# [7.21.0](https://github.com/josedialpad/dialtone/compare/v7.20.0...v7.21.0) (2023-01-11)
+
+
+### Features
+
+* package ([b8cf266](https://github.com/josedialpad/dialtone/commit/b8cf266f9c1ef37f602d3e20cf7014f625e4963b))
+
 # [7.20.0](https://github.com/josedialpad/dialtone/compare/v7.19.0...v7.20.0) (2023-01-11)
 
 
