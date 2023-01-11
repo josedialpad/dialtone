@@ -1,3 +1,31 @@
+# [7.19.0](https://github.com/josedialpad/dialtone/compare/v7.18.0...v7.19.0) (2023-01-11)
+
+
+### Features
+
+* testing changelog package ([123b3f8](https://github.com/josedialpad/dialtone/commit/123b3f85be93e1702f7c437c95d3856e1fd4f999))
+
+# [7.19.0](https://github.com/josedialpad/dialtone/compare/v7.18.0...v7.19.0) (2023-01-11)
+
+
+### Features
+
+* testing changelog package ([123b3f8](https://github.com/josedialpad/dialtone/commit/123b3f85be93e1702f7c437c95d3856e1fd4f999))
+
+# [7.19.0](https://github.com/josedialpad/dialtone/compare/v7.18.0...v7.19.0) (2023-01-11)
+
+
+### Features
+
+* testing changelog package ([123b3f8](https://github.com/josedialpad/dialtone/commit/123b3f85be93e1702f7c437c95d3856e1fd4f999))
+
+# [7.19.0](https://github.com/josedialpad/dialtone/compare/v7.18.0...v7.19.0) (2023-01-11)
+
+
+### Features
+
+* testing changelog package ([123b3f8](https://github.com/josedialpad/dialtone/commit/123b3f85be93e1702f7c437c95d3856e1fd4f999))
+
 # [7.18.0](https://github.com/josedialpad/dialtone/compare/v7.17.0...v7.18.0) (2023-01-10)
 
 
