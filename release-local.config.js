@@ -22,7 +22,7 @@ module.exports = {
       config: '@dialpad/conventional-changelog-angular',
     }],
     '@semantic-release/changelog',
-    '@semantic-release/changelog-json',
+    '@dialpad/changelog-json',
     ['@semantic-release/npm', {
       npmPublish: false,
     }],
