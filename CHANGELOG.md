@@ -1,3 +1,10 @@
+## [7.23.1](https://github.com/josedialpad/dialtone/compare/v7.23.0...v7.23.1) (2023-01-11)
+
+
+### Bug Fixes
+
+* update changelog ([769ab92](https://github.com/josedialpad/dialtone/commit/769ab926ebbb3e3343707f0edbc1923e6c9c41b2))
+
 # [7.23.0](https://github.com/josedialpad/dialtone/compare/v7.22.0...v7.23.0) (2023-01-11)
 
 
