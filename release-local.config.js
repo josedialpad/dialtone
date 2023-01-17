@@ -23,7 +23,7 @@ module.exports = {
     }],
     '@semantic-release/changelog',
     ['@dialpad/semantic-release-changelog-json', {
-      changelogFile: 'CHANGELOG.json',
+      changelogFile: 'CHANGELOG.md',
     }],
     ['@semantic-release/npm', {
       npmPublish: false,
