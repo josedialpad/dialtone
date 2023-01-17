@@ -1,3 +1,15 @@
+# [7.25.0](https://github.com/josedialpad/dialtone/compare/v7.24.0...v7.25.0) (2023-01-17)
+
+
+### Bug Fixes
+
+* update release config ([efc3c4c](https://github.com/josedialpad/dialtone/commit/efc3c4c454d9d7ec4f1350fb417b6c91a6587e70))
+
+
+### Features
+
+* remove changelog ([39b0f5a](https://github.com/josedialpad/dialtone/commit/39b0f5aa16bece2e533296c3cad93a582132d06e))
+
 # [7.24.0](https://github.com/josedialpad/dialtone/compare/v7.23.1...v7.24.0) (2023-01-17)
 
 
