@@ -1,3 +1,10 @@
+# [7.24.0](https://github.com/josedialpad/dialtone/compare/v7.23.1...v7.24.0) (2023-01-17)
+
+
+### Features
+
+* add @dialpad/semantic-release-changelog-json package ([f1e6e31](https://github.com/josedialpad/dialtone/commit/f1e6e313c83e7e64c18aa3ca98695b3f6e6b80f5))
+
 ## [7.23.1](https://github.com/josedialpad/dialtone/compare/v7.23.0...v7.23.1) (2023-01-11)
 
 
